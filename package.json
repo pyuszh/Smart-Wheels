@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@hookform/resolvers": "^5.2.2",
+    "@supabase/ssr": "^0.8.0",
+    "@supabase/supabase-js": "^2.93.3",
+    "react-dropzone": "^14.4.0",
+    "react-hook-form": "^7.71.1",
+    "react-hook-form-zod": "^0.3.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "prisma": "^7.3.0"
+  }
+}
